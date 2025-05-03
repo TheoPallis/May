@@ -1,0 +1,5470 @@
+{
+  "settings": {
+    "useAdvancedFormatting": false,
+    "countType": "readtime",
+    "countConfig": {
+      "$sessionCountType": "word"
+    },
+    "countType2": "word",
+    "countConfig2": {
+      "$sessionCountType": "word",
+      "customSuffix": "w"
+    },
+    "countType3": "none",
+    "countConfig3": {
+      "$sessionCountType": "word"
+    },
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "none",
+    "folderCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType3": "none",
+    "folderCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showSameCountsOnRoot": true,
+    "rootCountType": "word",
+    "rootCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "none",
+    "rootCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "rootCountType3": "none",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": false,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "momentDateFormat": "",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "2. Projects/Alpha/Project/Preview.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 45,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15,
+      "characterCount": 276,
+      "nonWhitespaceCharacterCount": 229,
+      "readingTimeInMinutes": 0.16981132075471697,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744361522105,
+      "modifiedDate": 1745169768477,
+      "sizeInBytes": 304,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.15,
+        "wordCount": 45,
+        "characterCount": 276,
+        "nonWhitespaceCharacterCount": 229
+      },
+      "frontmatter": {
+        "tags": [
+          "2.Projects"
+        ]
+      }
+    },
+    "SideHustle_Analyses.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4419,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 14.73,
+      "characterCount": 34060,
+      "nonWhitespaceCharacterCount": 28643,
+      "readingTimeInMinutes": 16.675471698113206,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745238016795,
+      "modifiedDate": 1745247719743,
+      "sizeInBytes": 34306,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 11.486666666666666,
+        "wordCount": 3446,
+        "characterCount": 26997,
+        "nonWhitespaceCharacterCount": 21910
+      }
+    },
+    "Backlog.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 29,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744117105680,
+      "modifiedDate": 1744972871403,
+      "sizeInBytes": 35,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 35,
+        "nonWhitespaceCharacterCount": 29
+      }
+    },
+    "Rest/Images/Pasted image 20250416182448.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744817088359,
+      "modifiedDate": 1744817088360,
+      "sizeInBytes": 147746,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/yin-yang-99824_1280.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1745171611032,
+      "modifiedDate": 1745171611033,
+      "sizeInBytes": 99093,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250417160246.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744894966983,
+      "modifiedDate": 1744894966985,
+      "sizeInBytes": 46625,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250417133739.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744886259838,
+      "modifiedDate": 1744886259846,
+      "sizeInBytes": 35051,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250414140122.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744628482013,
+      "modifiedDate": 1744628482016,
+      "sizeInBytes": 117515,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250414115501.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744620901026,
+      "modifiedDate": 1744620901026,
+      "sizeInBytes": 103769,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411151750.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744373870330,
+      "modifiedDate": 1744373870330,
+      "sizeInBytes": 51336,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411132200.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744366920098,
+      "modifiedDate": 1744366920098,
+      "sizeInBytes": 7859,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411165424.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744379664883,
+      "modifiedDate": 1744379664884,
+      "sizeInBytes": 109694,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411151737.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744373857008,
+      "modifiedDate": 1744373857009,
+      "sizeInBytes": 18272,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411133658.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744367818869,
+      "modifiedDate": 1744367818872,
+      "sizeInBytes": 7975,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411151713.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744373833544,
+      "modifiedDate": 1744373833545,
+      "sizeInBytes": 26210,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411102056.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744356056609,
+      "modifiedDate": 1744356056609,
+      "sizeInBytes": 37743,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411131728.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744366648857,
+      "modifiedDate": 1744366648857,
+      "sizeInBytes": 30800,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411094923.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744354163664,
+      "modifiedDate": 1744354163668,
+      "sizeInBytes": 41843,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411101918.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744355958982,
+      "modifiedDate": 1744355958984,
+      "sizeInBytes": 48362,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411112936.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744360176944,
+      "modifiedDate": 1744360176948,
+      "sizeInBytes": 58373,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411102537.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744356337522,
+      "modifiedDate": 1744356337525,
+      "sizeInBytes": 117262,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411102315.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744356195966,
+      "modifiedDate": 1744356195966,
+      "sizeInBytes": 154081,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411102017.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744356017464,
+      "modifiedDate": 1744356017465,
+      "sizeInBytes": 29798,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411101834.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744355914212,
+      "modifiedDate": 1744355914250,
+      "sizeInBytes": 124,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411095648.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744354608080,
+      "modifiedDate": 1744354608082,
+      "sizeInBytes": 13537,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411095353.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744354433020,
+      "modifiedDate": 1744354433056,
+      "sizeInBytes": 70037,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411095529.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744354529631,
+      "modifiedDate": 1744354529631,
+      "sizeInBytes": 449540,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411095500.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744354500018,
+      "modifiedDate": 1744354500020,
+      "sizeInBytes": 42102,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411095511.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744354511947,
+      "modifiedDate": 1744354511947,
+      "sizeInBytes": 149866,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250411095341.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744354421501,
+      "modifiedDate": 1744354421502,
+      "sizeInBytes": 82056,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250410134543.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744281943766,
+      "modifiedDate": 1744281943767,
+      "sizeInBytes": 91751,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250410134509.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744281909267,
+      "modifiedDate": 1744281909267,
+      "sizeInBytes": 50173,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250409162344.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744205024985,
+      "modifiedDate": 1744205024987,
+      "sizeInBytes": 66040,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250410112132.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744273292791,
+      "modifiedDate": 1744273292796,
+      "sizeInBytes": 153558,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250410111324.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744272804943,
+      "modifiedDate": 1744272804948,
+      "sizeInBytes": 124972,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250410111236.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744272756479,
+      "modifiedDate": 1744272756479,
+      "sizeInBytes": 494615,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250410110652.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744272412567,
+      "modifiedDate": 1744272412568,
+      "sizeInBytes": 66643,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250410111059.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744272659492,
+      "modifiedDate": 1744272659493,
+      "sizeInBytes": 671174,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250409134656.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744195616477,
+      "modifiedDate": 1744195616480,
+      "sizeInBytes": 22389,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250410110634.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744272394140,
+      "modifiedDate": 1744272394141,
+      "sizeInBytes": 87154,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250410085709.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744264629114,
+      "modifiedDate": 1744264629114,
+      "sizeInBytes": 59403,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250410110545.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744272345897,
+      "modifiedDate": 1744272345899,
+      "sizeInBytes": 541183,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250408093507.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744094107406,
+      "modifiedDate": 1744094107407,
+      "sizeInBytes": 104485,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250409162014.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744204814023,
+      "modifiedDate": 1744204814026,
+      "sizeInBytes": 1447870,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407125725.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744019845781,
+      "modifiedDate": 1744019845781,
+      "sizeInBytes": 40428,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250409095632.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744181792841,
+      "modifiedDate": 1744181792841,
+      "sizeInBytes": 60951,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250408093648.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744094208833,
+      "modifiedDate": 1744094208835,
+      "sizeInBytes": 98136,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407135521.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744023321435,
+      "modifiedDate": 1744023321438,
+      "sizeInBytes": 62893,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407134400.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744022640656,
+      "modifiedDate": 1744022640657,
+      "sizeInBytes": 48307,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407134220.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744022540392,
+      "modifiedDate": 1744022540394,
+      "sizeInBytes": 143810,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407134413.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744022653517,
+      "modifiedDate": 1744022653517,
+      "sizeInBytes": 81447,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407134258.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744022578595,
+      "modifiedDate": 1744022578595,
+      "sizeInBytes": 505577,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407134001.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744022401130,
+      "modifiedDate": 1744022401132,
+      "sizeInBytes": 155117,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407134041.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744022441128,
+      "modifiedDate": 1744022441132,
+      "sizeInBytes": 16285,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407133818.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744022298614,
+      "modifiedDate": 1744022298616,
+      "sizeInBytes": 206914,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407130109.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744020069984,
+      "modifiedDate": 1744020069985,
+      "sizeInBytes": 122102,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407133942.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744022382575,
+      "modifiedDate": 1744022382575,
+      "sizeInBytes": 291595,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407130033.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744020033500,
+      "modifiedDate": 1744020033502,
+      "sizeInBytes": 44718,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407113928.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744015168719,
+      "modifiedDate": 1744015168721,
+      "sizeInBytes": 149157,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404093032.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748232774,
+      "modifiedDate": 1743748232780,
+      "sizeInBytes": 331081,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250407125738.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744019858289,
+      "modifiedDate": 1744019858289,
+      "sizeInBytes": 101263,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404125228.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743760348387,
+      "modifiedDate": 1743760348388,
+      "sizeInBytes": 108779,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404125239.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743760359683,
+      "modifiedDate": 1743760359718,
+      "sizeInBytes": 81604,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404093150.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748310224,
+      "modifiedDate": 1743748310225,
+      "sizeInBytes": 100474,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404125138.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743760298428,
+      "modifiedDate": 1743760298430,
+      "sizeInBytes": 92653,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404093123.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748283720,
+      "modifiedDate": 1743748283721,
+      "sizeInBytes": 227298,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404093157.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748317827,
+      "modifiedDate": 1743748317830,
+      "sizeInBytes": 233566,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404093116.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748276091,
+      "modifiedDate": 1743748276091,
+      "sizeInBytes": 216619,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404092718.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748038129,
+      "modifiedDate": 1743748038131,
+      "sizeInBytes": 439897,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404093019.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748219725,
+      "modifiedDate": 1743748219727,
+      "sizeInBytes": 122052,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404093105.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748265554,
+      "modifiedDate": 1743748265555,
+      "sizeInBytes": 109895,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250403150631.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743681991563,
+      "modifiedDate": 1743681991563,
+      "sizeInBytes": 265290,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404093004.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748204944,
+      "modifiedDate": 1743748204944,
+      "sizeInBytes": 240023,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404092928.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748168327,
+      "modifiedDate": 1743748168327,
+      "sizeInBytes": 109128,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404092956.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748196895,
+      "modifiedDate": 1743748196898,
+      "sizeInBytes": 218627,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404092949.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748189333,
+      "modifiedDate": 1743748189336,
+      "sizeInBytes": 167463,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404092914.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748154402,
+      "modifiedDate": 1743748154405,
+      "sizeInBytes": 96270,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404092834.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748114128,
+      "modifiedDate": 1743748114128,
+      "sizeInBytes": 103938,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404092854.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748134251,
+      "modifiedDate": 1743748134253,
+      "sizeInBytes": 176454,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404092824.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748104583,
+      "modifiedDate": 1743748104591,
+      "sizeInBytes": 72821,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404092702.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748022537,
+      "modifiedDate": 1743748022539,
+      "sizeInBytes": 214267,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250404092815.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743748095775,
+      "modifiedDate": 1743748095775,
+      "sizeInBytes": 154284,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250403145816.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743681496542,
+      "modifiedDate": 1743681496542,
+      "sizeInBytes": 214680,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250403153506.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743683706809,
+      "modifiedDate": 1743683706809,
+      "sizeInBytes": 265290,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250403150526.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743681926541,
+      "modifiedDate": 1743681926542,
+      "sizeInBytes": 213678,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250401120353.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743498233755,
+      "modifiedDate": 1743498233756,
+      "sizeInBytes": 57137,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250403150433.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743681873529,
+      "modifiedDate": 1743681873529,
+      "sizeInBytes": 78468,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250403150243.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743681763704,
+      "modifiedDate": 1743681763704,
+      "sizeInBytes": 242827,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250403150036.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743681636131,
+      "modifiedDate": 1743681636132,
+      "sizeInBytes": 201325,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250403125647.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743674207204,
+      "modifiedDate": 1743674207204,
+      "sizeInBytes": 173163,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250402124527.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743587127214,
+      "modifiedDate": 1743587127218,
+      "sizeInBytes": 103209,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250402124518.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743587118938,
+      "modifiedDate": 1743587118941,
+      "sizeInBytes": 62520,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Images/Pasted image 20250402092558.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1743575158953,
+      "modifiedDate": 1743575158953,
+      "sizeInBytes": 266579,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Rest/Archived Projects/Dei app/Demo Steps.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 122,
+      "nonWhitespaceCharacterCount": 100,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743667859770,
+      "modifiedDate": 1745169791792,
+      "sizeInBytes": 170,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06333333333333334,
+        "wordCount": 19,
+        "characterCount": 122,
+        "nonWhitespaceCharacterCount": 100
+      },
+      "frontmatter": {
+        "Source": "Dei app/Outline",
+        "tags": [
+          "5.Rest"
+        ]
+      }
+    },
+    "Rest/Archived Projects/Dei app/1. Edit table.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 158,
+      "nonWhitespaceCharacterCount": 128,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743669988244,
+      "modifiedDate": 1745169791783,
+      "sizeInBytes": 203,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08,
+        "wordCount": 24,
+        "characterCount": 158,
+        "nonWhitespaceCharacterCount": 128
+      },
+      "frontmatter": {
+        "s": "DeiApp/Edit Table",
+        "tags": [
+          "5.Rest"
+        ]
+      }
+    },
+    "Rest/Archived Projects/Dei app/2. Location vs Count cids.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 70,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 439,
+      "nonWhitespaceCharacterCount": 339,
+      "readingTimeInMinutes": 0.2641509433962264,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743669369674,
+      "modifiedDate": 1745169791779,
+      "sizeInBytes": 490,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.23333333333333334,
+        "wordCount": 70,
+        "characterCount": 439,
+        "nonWhitespaceCharacterCount": 339
+      },
+      "frontmatter": {
+        "Source": "Dei app/Edit Sheet",
+        "tags": [
+          "5.Rest"
+        ]
+      }
+    },
+    "Rest/Archived Projects/Blue/Schemas/Tables/Greenflux/Monthly_Consumptions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 227,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7566666666666667,
+      "characterCount": 9359,
+      "nonWhitespaceCharacterCount": 1876,
+      "readingTimeInMinutes": 0.8566037735849057,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743576713597,
+      "modifiedDate": 1745169791772,
+      "sizeInBytes": 9417,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7566666666666667,
+        "wordCount": 227,
+        "characterCount": 9359,
+        "nonWhitespaceCharacterCount": 1876
+      },
+      "frontmatter": {
+        "tags": [
+          "5.Rest"
+        ]
+      }
+    },
+    "Rest/Archived Projects/Blue/Schemas/Tables/Greenflux/Charge_Sessions_Athenstime.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 104,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 2179,
+      "nonWhitespaceCharacterCount": 1061,
+      "readingTimeInMinutes": 0.39245283018867927,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743576672900,
+      "modifiedDate": 1745169791767,
+      "sizeInBytes": 2232,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3466666666666667,
+        "wordCount": 104,
+        "characterCount": 2179,
+        "nonWhitespaceCharacterCount": 1061
+      },
+      "frontmatter": {
+        "tags": [
+          "5.Rest"
+        ]
+      }
+    },
+    "Rest/Archived Projects/Blue/Schemas/Tables/Greenflux/Charge Stations Locations.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 189,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.63,
+      "characterCount": 1576,
+      "nonWhitespaceCharacterCount": 1265,
+      "readingTimeInMinutes": 0.7132075471698113,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743514407793,
+      "modifiedDate": 1745169791764,
+      "sizeInBytes": 1642,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.63,
+        "wordCount": 189,
+        "characterCount": 1576,
+        "nonWhitespaceCharacterCount": 1265
+      },
+      "frontmatter": {
+        "tags": [
+          "5.Rest"
+        ]
+      }
+    },
+    "Rest/Archived Projects/Blue/ΔΕΗ Projects.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 187,
+      "nonWhitespaceCharacterCount": 148,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743511159179,
+      "modifiedDate": 1745169791776,
+      "sizeInBytes": 214,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 187,
+        "nonWhitespaceCharacterCount": 148
+      },
+      "frontmatter": {
+        "tags": [
+          "5.Rest"
+        ]
+      }
+    },
+    "Rest/Archived Projects/Blue/PPC PBI Core.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 49,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 336,
+      "nonWhitespaceCharacterCount": 280,
+      "readingTimeInMinutes": 0.18490566037735848,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743579154313,
+      "modifiedDate": 1745169791759,
+      "sizeInBytes": 360,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.16333333333333333,
+        "wordCount": 49,
+        "characterCount": 336,
+        "nonWhitespaceCharacterCount": 280
+      },
+      "frontmatter": {
+        "tags": [
+          "5.Rest"
+        ]
+      }
+    },
+    "Rest/Archived Projects/Blue/Info/ΔΕΗ Blue.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 222,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.74,
+      "characterCount": 1494,
+      "nonWhitespaceCharacterCount": 1145,
+      "readingTimeInMinutes": 0.8377358490566038,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743511078264,
+      "modifiedDate": 1745169791756,
+      "sizeInBytes": 1668,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.74,
+        "wordCount": 222,
+        "characterCount": 1494,
+        "nonWhitespaceCharacterCount": 1145
+      },
+      "frontmatter": {
+        "tags": [
+          "5.Rest"
+        ]
+      }
+    },
+    "Rest/Archived Projects/Blue/Info/Dei Blue Data.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 69,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23,
+      "characterCount": 506,
+      "nonWhitespaceCharacterCount": 414,
+      "readingTimeInMinutes": 0.26037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743513521798,
+      "modifiedDate": 1745169791753,
+      "sizeInBytes": 606,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.23,
+        "wordCount": 69,
+        "characterCount": 506,
+        "nonWhitespaceCharacterCount": 414
+      },
+      "frontmatter": {
+        "tags": [
+          "5.Rest"
+        ]
+      }
+    },
+    "Rest/Archived Projects/Blue/Blue Documentation/HK PBI Core Glossary.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 615,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.05,
+      "characterCount": 71655,
+      "nonWhitespaceCharacterCount": 8610,
+      "readingTimeInMinutes": 2.3207547169811322,
+      "linkCount": 0,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1743583261728,
+      "modifiedDate": 1745169791762,
+      "sizeInBytes": 71679,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.05,
+        "wordCount": 615,
+        "characterCount": 71655,
+        "nonWhitespaceCharacterCount": 8610
+      },
+      "frontmatter": {
+        "tags": [
+          "5.Rest"
+        ]
+      }
+    },
+    "4. Personal/Spanish/Spanish.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 292,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9733333333333334,
+      "characterCount": 1953,
+      "nonWhitespaceCharacterCount": 1599,
+      "readingTimeInMinutes": 1.1018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744904411513,
+      "modifiedDate": 1745247725187,
+      "sizeInBytes": 1988,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9733333333333334,
+        "wordCount": 292,
+        "characterCount": 1953,
+        "nonWhitespaceCharacterCount": 1599
+      },
+      "frontmatter": {
+        "tags": [
+          "4.Personal"
+        ]
+      }
+    },
+    "4. Personal/Spanish/ERB.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 788,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.6266666666666665,
+      "characterCount": 4453,
+      "nonWhitespaceCharacterCount": 3578,
+      "readingTimeInMinutes": 2.973584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745164374232,
+      "modifiedDate": 1745169784174,
+      "sizeInBytes": 4585,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.6266666666666665,
+        "wordCount": 788,
+        "characterCount": 4453,
+        "nonWhitespaceCharacterCount": 3578
+      },
+      "frontmatter": {
+        "tags": [
+          "4.Personal"
+        ]
+      }
+    },
+    "4. Personal/Management/User files.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 29,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 349,
+      "nonWhitespaceCharacterCount": 296,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745168310595,
+      "modifiedDate": 1745176471810,
+      "sizeInBytes": 377,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09666666666666666,
+        "wordCount": 29,
+        "characterCount": 349,
+        "nonWhitespaceCharacterCount": 296
+      },
+      "frontmatter": {
+        "tags": [
+          "4.Personal"
+        ]
+      }
+    },
+    "4. Personal/Management/System.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 88,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29333333333333333,
+      "characterCount": 613,
+      "nonWhitespaceCharacterCount": 501,
+      "readingTimeInMinutes": 0.3320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744972452800,
+      "modifiedDate": 1745173276324,
+      "sizeInBytes": 641,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.29333333333333333,
+        "wordCount": 88,
+        "characterCount": 613,
+        "nonWhitespaceCharacterCount": 501
+      },
+      "frontmatter": {
+        "tags": [
+          "4.Personal"
+        ]
+      }
+    },
+    "4. Personal/Management/Prompt Engineering.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1978,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.593333333333334,
+      "characterCount": 13190,
+      "nonWhitespaceCharacterCount": 10888,
+      "readingTimeInMinutes": 7.464150943396226,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744970629535,
+      "modifiedDate": 1745169784174,
+      "sizeInBytes": 13254,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 6.593333333333334,
+        "wordCount": 1978,
+        "characterCount": 13190,
+        "nonWhitespaceCharacterCount": 10888
+      },
+      "frontmatter": {
+        "tags": [
+          "4.Personal"
+        ]
+      }
+    },
+    "4. Personal/Management/study.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 360,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2,
+      "characterCount": 2758,
+      "nonWhitespaceCharacterCount": 2352,
+      "readingTimeInMinutes": 1.3584905660377358,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745175394576,
+      "modifiedDate": 1745175924141,
+      "sizeInBytes": 4761,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2,
+        "wordCount": 360,
+        "characterCount": 2758,
+        "nonWhitespaceCharacterCount": 2352
+      }
+    },
+    "4. Personal/Management/Milestones.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 45,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15,
+      "characterCount": 281,
+      "nonWhitespaceCharacterCount": 228,
+      "readingTimeInMinutes": 0.16981132075471697,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744190321807,
+      "modifiedDate": 1745169784191,
+      "sizeInBytes": 309,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.15,
+        "wordCount": 45,
+        "characterCount": 281,
+        "nonWhitespaceCharacterCount": 228
+      },
+      "frontmatter": {
+        "tags": [
+          "4.Personal"
+        ]
+      }
+    },
+    "4. Personal/Management/Security @review.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 393,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.31,
+      "characterCount": 2452,
+      "nonWhitespaceCharacterCount": 1987,
+      "readingTimeInMinutes": 1.4830188679245282,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743493441520,
+      "modifiedDate": 1745169784202,
+      "sizeInBytes": 2492,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.31,
+        "wordCount": 393,
+        "characterCount": 2452,
+        "nonWhitespaceCharacterCount": 1987
+      },
+      "frontmatter": {
+        "tags": [
+          "4.Personal"
+        ]
+      }
+    },
+    "4. Personal/Management/Personal.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 72,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.24,
+      "characterCount": 410,
+      "nonWhitespaceCharacterCount": 320,
+      "readingTimeInMinutes": 0.27169811320754716,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744903287687,
+      "modifiedDate": 1745247348309,
+      "sizeInBytes": 438,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.24666666666666667,
+        "wordCount": 74,
+        "characterCount": 431,
+        "nonWhitespaceCharacterCount": 335
+      },
+      "frontmatter": {
+        "tags": [
+          "4.Personal"
+        ]
+      }
+    },
+    "4. Personal/Management/Obsidian shortcuts.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 124,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.41333333333333333,
+      "characterCount": 958,
+      "nonWhitespaceCharacterCount": 762,
+      "readingTimeInMinutes": 0.4679245283018868,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745170704990,
+      "modifiedDate": 1745174310153,
+      "sizeInBytes": 980,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.41333333333333333,
+        "wordCount": 124,
+        "characterCount": 958,
+        "nonWhitespaceCharacterCount": 762
+      }
+    },
+    "4. Personal/Management/Passwords.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 35,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 233,
+      "nonWhitespaceCharacterCount": 193,
+      "readingTimeInMinutes": 0.1320754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743493265519,
+      "modifiedDate": 1745169784201,
+      "sizeInBytes": 262,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.11666666666666667,
+        "wordCount": 35,
+        "characterCount": 233,
+        "nonWhitespaceCharacterCount": 193
+      },
+      "frontmatter": {
+        "tags": [
+          "4.Personal"
+        ]
+      }
+    },
+    "4. Personal/Management/Obsidian plugins.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 357,
+      "nonWhitespaceCharacterCount": 313,
+      "readingTimeInMinutes": 0.15849056603773584,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745170668929,
+      "modifiedDate": 1745234690381,
+      "sizeInBytes": 357,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14,
+        "wordCount": 42,
+        "characterCount": 357,
+        "nonWhitespaceCharacterCount": 313
+      }
+    },
+    "4. Personal/Management/Obsidian mapping.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 250,
+      "nonWhitespaceCharacterCount": 185,
+      "readingTimeInMinutes": 0.15849056603773584,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745168780383,
+      "modifiedDate": 1745169784197,
+      "sizeInBytes": 278,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14,
+        "wordCount": 42,
+        "characterCount": 250,
+        "nonWhitespaceCharacterCount": 185
+      },
+      "frontmatter": {
+        "tags": [
+          "4.Personal"
+        ]
+      }
+    },
+    "4. Personal/Management/Git.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 160,
+      "nonWhitespaceCharacterCount": 136,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745175175275,
+      "modifiedDate": 1745177556203,
+      "sizeInBytes": 160,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 160,
+        "nonWhitespaceCharacterCount": 136
+      }
+    },
+    "3. Learning/Qlik/Φόρμα Μηνιαίων Εξόδων.xls": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744887192243,
+      "modifiedDate": 1744888098173,
+      "sizeInBytes": 35328,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/2. Creating Vizes/✅22. Data Load Editor (Advanced Scripting).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1422,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.74,
+      "characterCount": 10838,
+      "nonWhitespaceCharacterCount": 8486,
+      "readingTimeInMinutes": 5.366037735849057,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744013764124,
+      "modifiedDate": 1745169758085,
+      "sizeInBytes": 10899,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.74,
+        "wordCount": 1422,
+        "characterCount": 10838,
+        "nonWhitespaceCharacterCount": 8486
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "2.CreatingVizes",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/2. Creating Vizes/✅ Chart Types.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 667,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.223333333333333,
+      "characterCount": 4966,
+      "nonWhitespaceCharacterCount": 4152,
+      "readingTimeInMinutes": 2.516981132075472,
+      "linkCount": 8,
+      "embedCount": 5,
+      "aliases": null,
+      "createdDate": 1744113167630,
+      "modifiedDate": 1745169758082,
+      "sizeInBytes": 5039,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.223333333333333,
+        "wordCount": 667,
+        "characterCount": 4966,
+        "nonWhitespaceCharacterCount": 4152
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "2.CreatingVizes",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/2. Creating Vizes/17. Building Blocks/✅ Fields.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 65,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 537,
+      "nonWhitespaceCharacterCount": 420,
+      "readingTimeInMinutes": 0.24528301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744275420147,
+      "modifiedDate": 1745169758077,
+      "sizeInBytes": 594,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.21666666666666667,
+        "wordCount": 65,
+        "characterCount": 537,
+        "nonWhitespaceCharacterCount": 420
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "2.CreatingVizes",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/2. Creating Vizes/17. Building Blocks/✅ 9. Sheet View.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 173,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5766666666666667,
+      "characterCount": 1288,
+      "nonWhitespaceCharacterCount": 1047,
+      "readingTimeInMinutes": 0.6528301886792452,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744013980062,
+      "modifiedDate": 1745169758074,
+      "sizeInBytes": 1345,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5766666666666667,
+        "wordCount": 173,
+        "characterCount": 1288,
+        "nonWhitespaceCharacterCount": 1047
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "2.CreatingVizes",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/2. Creating Vizes/17. Building Blocks/✅ Variables.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 545,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.8166666666666667,
+      "characterCount": 3956,
+      "nonWhitespaceCharacterCount": 3303,
+      "readingTimeInMinutes": 2.056603773584906,
+      "linkCount": 0,
+      "embedCount": 3,
+      "aliases": null,
+      "createdDate": 1744293223042,
+      "modifiedDate": 1745169758079,
+      "sizeInBytes": 4013,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.8166666666666667,
+        "wordCount": 545,
+        "characterCount": 3956,
+        "nonWhitespaceCharacterCount": 3303
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "2.CreatingVizes",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/2. Creating Vizes/17. Building Blocks/✅ Expressions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 266,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8866666666666667,
+      "characterCount": 2157,
+      "nonWhitespaceCharacterCount": 1803,
+      "readingTimeInMinutes": 1.0037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744113829253,
+      "modifiedDate": 1745169758071,
+      "sizeInBytes": 2231,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8866666666666667,
+        "wordCount": 266,
+        "characterCount": 2157,
+        "nonWhitespaceCharacterCount": 1803
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "2.CreatingVizes",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/Rest/Advanced Features.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 726,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.42,
+      "characterCount": 5423,
+      "nonWhitespaceCharacterCount": 4527,
+      "readingTimeInMinutes": 2.739622641509434,
+      "linkCount": 0,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1744012726634,
+      "modifiedDate": 1745169758186,
+      "sizeInBytes": 5566,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.42,
+        "wordCount": 726,
+        "characterCount": 5423,
+        "nonWhitespaceCharacterCount": 4527
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/Rest/SOH.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.01,
+      "characterCount": 37,
+      "nonWhitespaceCharacterCount": 34,
+      "readingTimeInMinutes": 0.011320754716981131,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744882038111,
+      "modifiedDate": 1745169758186,
+      "sizeInBytes": 74,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.01,
+        "wordCount": 3,
+        "characterCount": 37,
+        "nonWhitespaceCharacterCount": 34
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/Rest/Udemy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 52,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 403,
+      "nonWhitespaceCharacterCount": 346,
+      "readingTimeInMinutes": 0.19622641509433963,
+      "linkCount": 0,
+      "embedCount": 4,
+      "aliases": null,
+      "createdDate": 1744372977023,
+      "modifiedDate": 1745169758186,
+      "sizeInBytes": 440,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17333333333333334,
+        "wordCount": 52,
+        "characterCount": 403,
+        "nonWhitespaceCharacterCount": 346
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/Rest/Rest.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 220,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7333333333333333,
+      "characterCount": 1661,
+      "nonWhitespaceCharacterCount": 1361,
+      "readingTimeInMinutes": 0.8301886792452831,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744012739535,
+      "modifiedDate": 1745169758170,
+      "sizeInBytes": 1703,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7333333333333333,
+        "wordCount": 220,
+        "characterCount": 1661,
+        "nonWhitespaceCharacterCount": 1361
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/Progress.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 41,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 259,
+      "nonWhitespaceCharacterCount": 206,
+      "readingTimeInMinutes": 0.15471698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744104466443,
+      "modifiedDate": 1745233713446,
+      "sizeInBytes": 296,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13666666666666666,
+        "wordCount": 41,
+        "characterCount": 259,
+        "nonWhitespaceCharacterCount": 206
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/Environment/✅ Publishing and Sharing.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 116,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.38666666666666666,
+      "characterCount": 1022,
+      "nonWhitespaceCharacterCount": 826,
+      "readingTimeInMinutes": 0.4377358490566038,
+      "linkCount": 0,
+      "embedCount": 9,
+      "aliases": null,
+      "createdDate": 1744012732647,
+      "modifiedDate": 1745169758170,
+      "sizeInBytes": 1059,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.38666666666666666,
+        "wordCount": 116,
+        "characterCount": 1022,
+        "nonWhitespaceCharacterCount": 826
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/5. DMQS/✅Data Model Viewer (Visual Model).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 70,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 531,
+      "nonWhitespaceCharacterCount": 443,
+      "readingTimeInMinutes": 0.2641509433962264,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744013785664,
+      "modifiedDate": 1745169758199,
+      "sizeInBytes": 581,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.23333333333333334,
+        "wordCount": 70,
+        "characterCount": 531,
+        "nonWhitespaceCharacterCount": 443
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "5.DMQS",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/5. DMQS/✅Data Modeling Advanced.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4066,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 13.553333333333333,
+      "characterCount": 31340,
+      "nonWhitespaceCharacterCount": 25961,
+      "readingTimeInMinutes": 15.343396226415095,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744181636938,
+      "modifiedDate": 1745169758201,
+      "sizeInBytes": 31388,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 13.553333333333333,
+        "wordCount": 4066,
+        "characterCount": 31340,
+        "nonWhitespaceCharacterCount": 25961
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "5.DMQS",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/5. DMQS/✅Logical Model and Vocabulary (Business Logic).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 346,
+      "nonWhitespaceCharacterCount": 304,
+      "readingTimeInMinutes": 0.13584905660377358,
+      "linkCount": 0,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1744013836677,
+      "modifiedDate": 1745169758201,
+      "sizeInBytes": 394,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.12,
+        "wordCount": 36,
+        "characterCount": 346,
+        "nonWhitespaceCharacterCount": 304
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "5.DMQS",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/4. Advanced/✅Bookmarks.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 186,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.62,
+      "characterCount": 1275,
+      "nonWhitespaceCharacterCount": 1039,
+      "readingTimeInMinutes": 0.7018867924528301,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744292969134,
+      "modifiedDate": 1745169758170,
+      "sizeInBytes": 1327,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.62,
+        "wordCount": 186,
+        "characterCount": 1275,
+        "nonWhitespaceCharacterCount": 1039
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "4.Advanced",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/4. Advanced/✅ Dynamic Calculations.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 41,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 338,
+      "nonWhitespaceCharacterCount": 281,
+      "readingTimeInMinutes": 0.15471698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744292147344,
+      "modifiedDate": 1745169758170,
+      "sizeInBytes": 390,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13666666666666666,
+        "wordCount": 41,
+        "characterCount": 338,
+        "nonWhitespaceCharacterCount": 281
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "4.Advanced",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/4. Advanced/✅ Selection Tools.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 146,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4866666666666667,
+      "characterCount": 1113,
+      "nonWhitespaceCharacterCount": 909,
+      "readingTimeInMinutes": 0.5509433962264151,
+      "linkCount": 0,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1744267863840,
+      "modifiedDate": 1745169758170,
+      "sizeInBytes": 1177,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4866666666666667,
+        "wordCount": 146,
+        "characterCount": 1113,
+        "nonWhitespaceCharacterCount": 909
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "4.Advanced",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/4. Advanced/✅ Data Catalog.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 197,
+      "nonWhitespaceCharacterCount": 164,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744195605509,
+      "modifiedDate": 1745169758170,
+      "sizeInBytes": 249,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08,
+        "wordCount": 24,
+        "characterCount": 197,
+        "nonWhitespaceCharacterCount": 164
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "4.Advanced",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/4. Advanced/✅ Conditional Formatting.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 252,
+      "nonWhitespaceCharacterCount": 229,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744290102247,
+      "modifiedDate": 1745169758166,
+      "sizeInBytes": 308,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05,
+        "wordCount": 15,
+        "characterCount": 252,
+        "nonWhitespaceCharacterCount": 229
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "4.Advanced",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/4. Advanced/✅ Alternate states.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 226,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7533333333333333,
+      "characterCount": 1491,
+      "nonWhitespaceCharacterCount": 1216,
+      "readingTimeInMinutes": 0.8528301886792453,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744280815357,
+      "modifiedDate": 1745169758154,
+      "sizeInBytes": 1547,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7533333333333333,
+        "wordCount": 226,
+        "characterCount": 1491,
+        "nonWhitespaceCharacterCount": 1216
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "4.Advanced",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/3. Data Concepts/✅Selections.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 339,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.13,
+      "characterCount": 2248,
+      "nonWhitespaceCharacterCount": 1871,
+      "readingTimeInMinutes": 1.2792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744267820212,
+      "modifiedDate": 1745169758154,
+      "sizeInBytes": 2304,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.13,
+        "wordCount": 339,
+        "characterCount": 2248,
+        "nonWhitespaceCharacterCount": 1871
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.DataConcepts",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 26. Data Modeling Problems.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 515,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7166666666666666,
+      "characterCount": 3475,
+      "nonWhitespaceCharacterCount": 2877,
+      "readingTimeInMinutes": 1.9433962264150944,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744178931054,
+      "modifiedDate": 1745169758154,
+      "sizeInBytes": 3531,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.7166666666666666,
+        "wordCount": 515,
+        "characterCount": 3475,
+        "nonWhitespaceCharacterCount": 2877
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 15. Functions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 274,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9133333333333333,
+      "characterCount": 2423,
+      "nonWhitespaceCharacterCount": 2032,
+      "readingTimeInMinutes": 1.0339622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744695984128,
+      "modifiedDate": 1745169758122,
+      "sizeInBytes": 2489,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9133333333333333,
+        "wordCount": 274,
+        "characterCount": 2423,
+        "nonWhitespaceCharacterCount": 2032
+      },
+      "frontmatter": {
+        "tags": [
+          "Vizes",
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 25. Set Analysis.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 371,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2366666666666666,
+      "characterCount": 3325,
+      "nonWhitespaceCharacterCount": 2726,
+      "readingTimeInMinutes": 1.4,
+      "linkCount": 0,
+      "embedCount": 6,
+      "aliases": null,
+      "createdDate": 1744019095216,
+      "modifiedDate": 1745169758153,
+      "sizeInBytes": 3387,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2366666666666666,
+        "wordCount": 371,
+        "characterCount": 3325,
+        "nonWhitespaceCharacterCount": 2726
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 24. Hub Environment.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 155,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5166666666666667,
+      "characterCount": 1116,
+      "nonWhitespaceCharacterCount": 917,
+      "readingTimeInMinutes": 0.5849056603773585,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744012554397,
+      "modifiedDate": 1745169758152,
+      "sizeInBytes": 1172,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5166666666666667,
+        "wordCount": 155,
+        "characterCount": 1116,
+        "nonWhitespaceCharacterCount": 917
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 23. Associations.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 131,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 870,
+      "nonWhitespaceCharacterCount": 738,
+      "readingTimeInMinutes": 0.49433962264150944,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744267618894,
+      "modifiedDate": 1745169758150,
+      "sizeInBytes": 929,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.43666666666666665,
+        "wordCount": 131,
+        "characterCount": 870,
+        "nonWhitespaceCharacterCount": 738
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 21. Filter Pane.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 113,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 852,
+      "nonWhitespaceCharacterCount": 682,
+      "readingTimeInMinutes": 0.42641509433962266,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744810955844,
+      "modifiedDate": 1745169758143,
+      "sizeInBytes": 908,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.37666666666666665,
+        "wordCount": 113,
+        "characterCount": 852,
+        "nonWhitespaceCharacterCount": 682
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 22. Combo Chart.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 104,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 813,
+      "nonWhitespaceCharacterCount": 653,
+      "readingTimeInMinutes": 0.39245283018867927,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744877857767,
+      "modifiedDate": 1745169758148,
+      "sizeInBytes": 869,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3466666666666667,
+        "wordCount": 104,
+        "characterCount": 813,
+        "nonWhitespaceCharacterCount": 653
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 20. Additional Properties.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 463,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5433333333333332,
+      "characterCount": 3330,
+      "nonWhitespaceCharacterCount": 2781,
+      "readingTimeInMinutes": 1.7471698113207548,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744292816197,
+      "modifiedDate": 1745169758145,
+      "sizeInBytes": 3398,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.5433333333333332,
+        "wordCount": 463,
+        "characterCount": 3330,
+        "nonWhitespaceCharacterCount": 2781
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 19. Map.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 49,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 411,
+      "nonWhitespaceCharacterCount": 328,
+      "readingTimeInMinutes": 0.18490566037735848,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744804817023,
+      "modifiedDate": 1745169758141,
+      "sizeInBytes": 467,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.16333333333333333,
+        "wordCount": 49,
+        "characterCount": 411,
+        "nonWhitespaceCharacterCount": 328
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 17. Properties Panel.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 156,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.52,
+      "characterCount": 1228,
+      "nonWhitespaceCharacterCount": 1022,
+      "readingTimeInMinutes": 0.5886792452830188,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744275193336,
+      "modifiedDate": 1745169758130,
+      "sizeInBytes": 1292,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.52,
+        "wordCount": 156,
+        "characterCount": 1228,
+        "nonWhitespaceCharacterCount": 1022
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 13. KPI (Key Performance Indicator).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 119,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.39666666666666667,
+      "characterCount": 858,
+      "nonWhitespaceCharacterCount": 694,
+      "readingTimeInMinutes": 0.4490566037735849,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744791715570,
+      "modifiedDate": 1745169758120,
+      "sizeInBytes": 916,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.39666666666666667,
+        "wordCount": 119,
+        "characterCount": 858,
+        "nonWhitespaceCharacterCount": 694
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 18. Scatter Plot.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 130,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43333333333333335,
+      "characterCount": 918,
+      "nonWhitespaceCharacterCount": 718,
+      "readingTimeInMinutes": 0.49056603773584906,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744802079740,
+      "modifiedDate": 1745169758135,
+      "sizeInBytes": 976,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.43333333333333335,
+        "wordCount": 130,
+        "characterCount": 918,
+        "nonWhitespaceCharacterCount": 718
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 11. Bar Chart.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 75,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.25,
+      "characterCount": 669,
+      "nonWhitespaceCharacterCount": 542,
+      "readingTimeInMinutes": 0.2830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744789119636,
+      "modifiedDate": 1745169758154,
+      "sizeInBytes": 725,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.25,
+        "wordCount": 75,
+        "characterCount": 669,
+        "nonWhitespaceCharacterCount": 542
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 16. Gauge.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 54,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18,
+      "characterCount": 431,
+      "nonWhitespaceCharacterCount": 357,
+      "readingTimeInMinutes": 0.2037735849056604,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744800046831,
+      "modifiedDate": 1745169758133,
+      "sizeInBytes": 489,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18,
+        "wordCount": 54,
+        "characterCount": 431,
+        "nonWhitespaceCharacterCount": 357
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 01. Create App.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 60,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2,
+      "characterCount": 416,
+      "nonWhitespaceCharacterCount": 342,
+      "readingTimeInMinutes": 0.22641509433962265,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744194793372,
+      "modifiedDate": 1745169758086,
+      "sizeInBytes": 482,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2,
+        "wordCount": 60,
+        "characterCount": 416,
+        "nonWhitespaceCharacterCount": 342
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 14. Expression Editor.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 129,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43,
+      "characterCount": 1015,
+      "nonWhitespaceCharacterCount": 840,
+      "readingTimeInMinutes": 0.4867924528301887,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744612436709,
+      "modifiedDate": 1745169758122,
+      "sizeInBytes": 1078,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.43,
+        "wordCount": 129,
+        "characterCount": 1015,
+        "nonWhitespaceCharacterCount": 840
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 12. Line Chart.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 113,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 919,
+      "nonWhitespaceCharacterCount": 713,
+      "readingTimeInMinutes": 0.42641509433962266,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744791547402,
+      "modifiedDate": 1745169758120,
+      "sizeInBytes": 975,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.37666666666666665,
+        "wordCount": 113,
+        "characterCount": 919,
+        "nonWhitespaceCharacterCount": 713
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 10. Master Items.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 261,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.87,
+      "characterCount": 1965,
+      "nonWhitespaceCharacterCount": 1650,
+      "readingTimeInMinutes": 0.9849056603773585,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744275374235,
+      "modifiedDate": 1745169758113,
+      "sizeInBytes": 2025,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.87,
+        "wordCount": 261,
+        "characterCount": 1965,
+        "nonWhitespaceCharacterCount": 1650
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 10. Data Preview.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 51,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17,
+      "characterCount": 323,
+      "nonWhitespaceCharacterCount": 260,
+      "readingTimeInMinutes": 0.19245283018867926,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744782984683,
+      "modifiedDate": 1745169758105,
+      "sizeInBytes": 379,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17,
+        "wordCount": 51,
+        "characterCount": 323,
+        "nonWhitespaceCharacterCount": 260
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 06. GWG.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 320,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0666666666666667,
+      "characterCount": 2159,
+      "nonWhitespaceCharacterCount": 1778,
+      "readingTimeInMinutes": 1.2075471698113207,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744012596377,
+      "modifiedDate": 1745169758100,
+      "sizeInBytes": 2228,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0666666666666667,
+        "wordCount": 320,
+        "characterCount": 2159,
+        "nonWhitespaceCharacterCount": 1778
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 09. Tables.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 153,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.51,
+      "characterCount": 1193,
+      "nonWhitespaceCharacterCount": 966,
+      "readingTimeInMinutes": 0.5773584905660377,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744787556706,
+      "modifiedDate": 1745169758100,
+      "sizeInBytes": 1249,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.51,
+        "wordCount": 153,
+        "characterCount": 1193,
+        "nonWhitespaceCharacterCount": 966
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 08. Building Charts.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 87,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29,
+      "characterCount": 679,
+      "nonWhitespaceCharacterCount": 556,
+      "readingTimeInMinutes": 0.3283018867924528,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744012710300,
+      "modifiedDate": 1745169758097,
+      "sizeInBytes": 735,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.29,
+        "wordCount": 87,
+        "characterCount": 679,
+        "nonWhitespaceCharacterCount": 556
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 07. Edit Table (Table Editor).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 132,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44,
+      "characterCount": 954,
+      "nonWhitespaceCharacterCount": 769,
+      "readingTimeInMinutes": 0.4981132075471698,
+      "linkCount": 1,
+      "embedCount": 3,
+      "aliases": null,
+      "createdDate": 1744784434033,
+      "modifiedDate": 1745169758109,
+      "sizeInBytes": 1012,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.44,
+        "wordCount": 132,
+        "characterCount": 954,
+        "nonWhitespaceCharacterCount": 769
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 05. Data Manager Views.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 183,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.61,
+      "characterCount": 1324,
+      "nonWhitespaceCharacterCount": 1112,
+      "readingTimeInMinutes": 0.690566037735849,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744784184688,
+      "modifiedDate": 1745169758096,
+      "sizeInBytes": 1386,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.61,
+        "wordCount": 183,
+        "characterCount": 1324,
+        "nonWhitespaceCharacterCount": 1112
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 04. Data Manager.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 32,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 228,
+      "nonWhitespaceCharacterCount": 191,
+      "readingTimeInMinutes": 0.12075471698113208,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744013729640,
+      "modifiedDate": 1745169758090,
+      "sizeInBytes": 286,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.10666666666666667,
+        "wordCount": 32,
+        "characterCount": 228,
+        "nonWhitespaceCharacterCount": 191
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 03. Data Selection Screen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 122,
+      "nonWhitespaceCharacterCount": 101,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744786606152,
+      "modifiedDate": 1745169758093,
+      "sizeInBytes": 179,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07,
+        "wordCount": 21,
+        "characterCount": 122,
+        "nonWhitespaceCharacterCount": 101
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Udemy Real Life/1. Initial Setup/✅ 02. App Overview Screen.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 203,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6766666666666666,
+      "characterCount": 1677,
+      "nonWhitespaceCharacterCount": 1372,
+      "readingTimeInMinutes": 0.7660377358490567,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744012652059,
+      "modifiedDate": 1745169758116,
+      "sizeInBytes": 1735,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6766666666666666,
+        "wordCount": 203,
+        "characterCount": 1677,
+        "nonWhitespaceCharacterCount": 1372
+      },
+      "frontmatter": {
+        "tags": [
+          "1.InitialSetup",
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Archive/Done/Gemini 2nd try/Section 3 Data Model & Management Awareness (Medium Probability).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1754,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.846666666666667,
+      "characterCount": 13046,
+      "nonWhitespaceCharacterCount": 10289,
+      "readingTimeInMinutes": 6.618867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744091644462,
+      "modifiedDate": 1745169758066,
+      "sizeInBytes": 13085,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.846666666666667,
+        "wordCount": 1754,
+        "characterCount": 13046,
+        "nonWhitespaceCharacterCount": 10289
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Archive/Done/Gemini 2nd try/Section 2 Building Visualizations & Sheets (High Probability).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4608,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 15.36,
+      "characterCount": 37375,
+      "nonWhitespaceCharacterCount": 28811,
+      "readingTimeInMinutes": 17.38867924528302,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744091516129,
+      "modifiedDate": 1745169758062,
+      "sizeInBytes": 37424,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 15.36,
+        "wordCount": 4608,
+        "characterCount": 37375,
+        "nonWhitespaceCharacterCount": 28811
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Archive/Done/Gemini 2nd try/Section 1 Foundational Concepts & Data Interaction (Highest Probability - Enhanced Detail).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3119,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 10.396666666666667,
+      "characterCount": 23590,
+      "nonWhitespaceCharacterCount": 18362,
+      "readingTimeInMinutes": 11.769811320754718,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744091322580,
+      "modifiedDate": 1745169758054,
+      "sizeInBytes": 23641,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 10.396666666666667,
+        "wordCount": 3119,
+        "characterCount": 23590,
+        "nonWhitespaceCharacterCount": 18362
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Archive/Done/Add 0/Manager (PQuery).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 85,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 538,
+      "nonWhitespaceCharacterCount": 414,
+      "readingTimeInMinutes": 0.32075471698113206,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743666774114,
+      "modifiedDate": 1745169758051,
+      "sizeInBytes": 592,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2833333333333333,
+        "wordCount": 85,
+        "characterCount": 538,
+        "nonWhitespaceCharacterCount": 414
+      },
+      "frontmatter": {
+        "Source": "Demo App",
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Archive/Done/Add 0/Part1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 223,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7433333333333333,
+      "characterCount": 1568,
+      "nonWhitespaceCharacterCount": 1293,
+      "readingTimeInMinutes": 0.8415094339622642,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743661901593,
+      "modifiedDate": 1745169758054,
+      "sizeInBytes": 1641,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7433333333333333,
+        "wordCount": 223,
+        "characterCount": 1568,
+        "nonWhitespaceCharacterCount": 1293
+      },
+      "frontmatter": {
+        "Source": "Internal Training",
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Archive/Done/Add 0/Data Manager.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 130,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43333333333333335,
+      "characterCount": 1178,
+      "nonWhitespaceCharacterCount": 887,
+      "readingTimeInMinutes": 0.49056603773584906,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743685048890,
+      "modifiedDate": 1745169758049,
+      "sizeInBytes": 1241,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.43333333333333335,
+        "wordCount": 130,
+        "characterCount": 1178,
+        "nonWhitespaceCharacterCount": 887
+      },
+      "frontmatter": {
+        "Source": "Internal Training",
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Archive/Done/Add 0/3.5 hours until loading data part 1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 338,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1266666666666667,
+      "characterCount": 2145,
+      "nonWhitespaceCharacterCount": 1683,
+      "readingTimeInMinutes": 1.2754716981132075,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1743756788766,
+      "modifiedDate": 1745169758047,
+      "sizeInBytes": 2200,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1266666666666667,
+        "wordCount": 338,
+        "characterCount": 2145,
+        "nonWhitespaceCharacterCount": 1683
+      },
+      "frontmatter": {
+        "Source": "3.5 hours",
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Archive/Basic Qlik.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1383,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.61,
+      "characterCount": 10999,
+      "nonWhitespaceCharacterCount": 8807,
+      "readingTimeInMinutes": 5.218867924528302,
+      "linkCount": 1,
+      "embedCount": 8,
+      "aliases": null,
+      "createdDate": 1743672195655,
+      "modifiedDate": 1745169758044,
+      "sizeInBytes": 11166,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.61,
+        "wordCount": 1383,
+        "characterCount": 10999,
+        "nonWhitespaceCharacterCount": 8807
+      },
+      "frontmatter": {
+        "1": "[[Part1]]",
+        "2": "[[Manager (PQuery)]]",
+        "3": "[[1. Edit table]]",
+        "4": "[[2. Location vs Count cids]]",
+        "Source": "Gemini",
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Develop Qlik Sense Apps Udemy/Requirements.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 174,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.58,
+      "characterCount": 1085,
+      "nonWhitespaceCharacterCount": 883,
+      "readingTimeInMinutes": 0.6566037735849056,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744819202937,
+      "modifiedDate": 1745169758041,
+      "sizeInBytes": 1247,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.58,
+        "wordCount": 174,
+        "characterCount": 1085,
+        "nonWhitespaceCharacterCount": 883
+      },
+      "frontmatter": {
+        "Source": "Develop Qlik Sense Apps , be ready to take QSDA/QSBA certification exams - all in one comprehensive hands on course.",
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Add/Add 1/Gemini 2nd try/Section 5 Supporting Concepts & Best Practices (Lower Probability  Contextual).md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1639,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.463333333333333,
+      "characterCount": 12913,
+      "nonWhitespaceCharacterCount": 10223,
+      "readingTimeInMinutes": 6.184905660377359,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744091754104,
+      "modifiedDate": 1745169758028,
+      "sizeInBytes": 12950,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.463333333333333,
+        "wordCount": 1639,
+        "characterCount": 12913,
+        "nonWhitespaceCharacterCount": 10223
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Add/Add 1/Gemini 2nd try/Section 4 Advanced Analysis Concepts & App Lifecycle (Medium-Low Probability for Deep Detail, High Probability for Awareness.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1540,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.133333333333334,
+      "characterCount": 12310,
+      "nonWhitespaceCharacterCount": 9822,
+      "readingTimeInMinutes": 5.811320754716981,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744091684188,
+      "modifiedDate": 1745169758026,
+      "sizeInBytes": 12349,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.133333333333334,
+        "wordCount": 1540,
+        "characterCount": 12310,
+        "nonWhitespaceCharacterCount": 9822
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Add/Add 3/Qlik Learn/Intro.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 78,
+      "nonWhitespaceCharacterCount": 61,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744032349621,
+      "modifiedDate": 1745169758038,
+      "sizeInBytes": 115,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04,
+        "wordCount": 12,
+        "characterCount": 78,
+        "nonWhitespaceCharacterCount": 61
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Add/Add 3/Qlik 3.5 Tuotrial/Qlik Sense Tutorial 3.5 Hours of Beginner to Advanced Qlik Sense Training.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 153,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.51,
+      "characterCount": 906,
+      "nonWhitespaceCharacterCount": 698,
+      "readingTimeInMinutes": 0.5773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743660946932,
+      "modifiedDate": 1745169758033,
+      "sizeInBytes": 943,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.51,
+        "wordCount": 153,
+        "characterCount": 906,
+        "nonWhitespaceCharacterCount": 698
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Qlik/Add/Add 3/Ba cert topics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6389,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 21.296666666666667,
+      "characterCount": 51299,
+      "nonWhitespaceCharacterCount": 42924,
+      "readingTimeInMinutes": 24.109433962264152,
+      "linkCount": 1,
+      "embedCount": 8,
+      "aliases": null,
+      "createdDate": 1744028469545,
+      "modifiedDate": 1745169758031,
+      "sizeInBytes": 79225,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 21.296666666666667,
+        "wordCount": 6389,
+        "characterCount": 51299,
+        "nonWhitespaceCharacterCount": 42924
+      },
+      "frontmatter": {
+        "tags": [
+          "Qlik",
+          "3.Learning"
+        ]
+      }
+    },
+    "3. Learning/Power BI/Requirements for report.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 233,
+      "nonWhitespaceCharacterCount": 195,
+      "readingTimeInMinutes": 0.13584905660377358,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744179528842,
+      "modifiedDate": 1745169804072,
+      "sizeInBytes": 274,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.12,
+        "wordCount": 36,
+        "characterCount": 233,
+        "nonWhitespaceCharacterCount": 195
+      },
+      "frontmatter": {
+        "tags": [
+          "3.Learning",
+          "Power-BI"
+        ]
+      }
+    },
+    "3. Learning/Power BI/Power BI.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 643,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1433333333333335,
+      "characterCount": 4782,
+      "nonWhitespaceCharacterCount": 3949,
+      "readingTimeInMinutes": 2.4264150943396228,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744011895104,
+      "modifiedDate": 1745169804077,
+      "sizeInBytes": 5891,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.1433333333333335,
+        "wordCount": 643,
+        "characterCount": 4782,
+        "nonWhitespaceCharacterCount": 3949
+      },
+      "frontmatter": {
+        "tags": [
+          "3.Learning",
+          "Power-BI"
+        ]
+      }
+    },
+    "3. Learning/Power BI/Power BI Internal.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 107,
+      "nonWhitespaceCharacterCount": 87,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744995657235,
+      "modifiedDate": 1745169804072,
+      "sizeInBytes": 148,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06,
+        "wordCount": 18,
+        "characterCount": 107,
+        "nonWhitespaceCharacterCount": 87
+      },
+      "frontmatter": {
+        "tags": [
+          "3.Learning",
+          "Power-BI"
+        ]
+      }
+    },
+    "3. Learning/Power BI/Bi Seminars.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 154,
+      "nonWhitespaceCharacterCount": 125,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743503260008,
+      "modifiedDate": 1745169804079,
+      "sizeInBytes": 195,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 154,
+        "nonWhitespaceCharacterCount": 125
+      },
+      "frontmatter": {
+        "tags": [
+          "3.Learning",
+          "Power-BI"
+        ]
+      }
+    },
+    "1. Meetings/April/09-04-2025 Blue Vibe.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 171,
+      "nonWhitespaceCharacterCount": 148,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1744204812858,
+      "modifiedDate": 1745169773534,
+      "sizeInBytes": 199,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07333333333333333,
+        "wordCount": 22,
+        "characterCount": 171,
+        "nonWhitespaceCharacterCount": 148
+      },
+      "frontmatter": {
+        "tags": [
+          "1.Meetings"
+        ]
+      }
+    },
+    "1. Meetings/April/04-04-25 Alpha.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 347,
+      "nonWhitespaceCharacterCount": 285,
+      "readingTimeInMinutes": 0.20754716981132076,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743761156235,
+      "modifiedDate": 1745169773527,
+      "sizeInBytes": 375,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18333333333333332,
+        "wordCount": 55,
+        "characterCount": 347,
+        "nonWhitespaceCharacterCount": 285
+      },
+      "frontmatter": {
+        "tags": [
+          "1.Meetings"
+        ]
+      }
+    },
+    "1. Meetings/April/14-4-25 Clockify.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 198,
+      "nonWhitespaceCharacterCount": 167,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744628352251,
+      "modifiedDate": 1745169773540,
+      "sizeInBytes": 276,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 198,
+        "nonWhitespaceCharacterCount": 167
+      },
+      "frontmatter": {
+        "tags": [
+          "1.Meetings"
+        ]
+      }
+    },
+    "1. Meetings/April/10-04-25 Joseph.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 85,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 591,
+      "nonWhitespaceCharacterCount": 493,
+      "readingTimeInMinutes": 0.32075471698113206,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744268311635,
+      "modifiedDate": 1745169773540,
+      "sizeInBytes": 619,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2833333333333333,
+        "wordCount": 85,
+        "characterCount": 591,
+        "nonWhitespaceCharacterCount": 493
+      },
+      "frontmatter": {
+        "tags": [
+          "1.Meetings"
+        ]
+      }
+    },
+    "1. Meetings/April/08-04-2025 Blue.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 53,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 473,
+      "nonWhitespaceCharacterCount": 408,
+      "readingTimeInMinutes": 0.2,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744104597265,
+      "modifiedDate": 1745169773527,
+      "sizeInBytes": 501,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17666666666666667,
+        "wordCount": 53,
+        "characterCount": 473,
+        "nonWhitespaceCharacterCount": 408
+      },
+      "frontmatter": {
+        "tags": [
+          "1.Meetings"
+        ]
+      }
+    },
+    "1. Meetings/April/03-04-25 Joseph & Blue.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 134,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44666666666666666,
+      "characterCount": 953,
+      "nonWhitespaceCharacterCount": 788,
+      "readingTimeInMinutes": 0.5056603773584906,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1743663749987,
+      "modifiedDate": 1745169773527,
+      "sizeInBytes": 989,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.44666666666666666,
+        "wordCount": 134,
+        "characterCount": 953,
+        "nonWhitespaceCharacterCount": 788
+      },
+      "frontmatter": {
+        "tags": [
+          "1.Meetings"
+        ]
+      }
+    }
+  }
+}

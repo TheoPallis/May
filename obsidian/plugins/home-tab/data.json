@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "4. Personal/Spanish/Spanish.md",
+      "timestamp": 1745247719894
+    },
+    {
+      "filepath": "SideHustle_Analyses.md",
+      "timestamp": 1745247620982
+    },
+    {
+      "filepath": "4. Personal/Management/Personal.md",
+      "timestamp": 1745247206154
+    },
+    {
+      "filepath": "3. Learning/Power BI/Power BI Internal.md",
+      "timestamp": 1745244887350
+    },
+    {
+      "filepath": "3. Learning/Power BI/Power BI.md",
+      "timestamp": 1745244884033
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}
