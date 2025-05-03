@@ -1,0 +1,33 @@
+---
+tags:
+  - 4.Personal
+---
+ - We only use the equipment that the company provides us.
+ - We connect to the internet only from the corporate network.
+ - We lock our computer screen when we get up from the desk.
+ - We never leave manuscripts and papers with sensitive information in obvious places or sticky notes near the computer.
+ - We “clean our desks” at the end of our shift. 
+ - We do not share our passwords with any colleagues (neither on paper nor by talking
+ - We only use company equipment. Where possible, we do not use the same device for business and personal use.
+## Home
+ - We only use company equipment.
+ - ==Where possible, we do not use the same device for business and personal use==
+ - ==We do not store corporate information on home storage media or data storage services (Dropbox, OneDrive, box, etc.) connected to our accounts==
+ - We do not share sensitive information over untrusted connections.
+ - We connect to the Internet only from our connection or connections that we are sure are reliable. We avoid public networks and under no circumstances connect to free wifi.
+ - We use the corporate VPN to share file
+ - We lock our windows session if we work in public areas
+ - When taking pictures that include our laptop, we always make sure our screen is locked or the laptop is closed
+ - Check which devices are connected to your home network. If you don't recognize any of them, change the password on the network router as well as the network name (SSID) and connect your trusted devices from the beginning. 
+ - In case you do not know how to make the necessary changes, consult the user manuals, or ask for help from the technical support department of your telecommunications provider. 
+ - We don't use the Company’s VPN from our personal computers. 
+ - We keep frequent Back Ups
+ - We frequently run virus checks on our devices
+ - How To Deal with Infected Machines • We disconnect our computer from the network. • We inform the IT department. • We do NOT shut down the computer.
+ - Email is not a storage account. You should clean up your email regularly.
+ - Attached files with sensitive information of any type should be encrypted (TrendMicro, zip, 7zip, WinRAR). 
+ - We share the decryption code in a 2nd communication channel (phone, SMS, live).
+ - Any information we share in any way (email, physical file) must be classified according to the following classification scale: 
+	  - Classified  (clients)
+	 - Confidential (internal)
+	  - Public
